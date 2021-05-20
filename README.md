@@ -6,4 +6,6 @@ bundle exec jekyll serve
 ## Pages
 - index
     - default.html
-- about 
+- age7
+- age10
+- contact 

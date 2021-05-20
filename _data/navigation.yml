@@ -3,12 +3,9 @@
 - title: Classes
   url: /classes.html
   sublinks:
-    - title: FAQ
-      url: /faq.html
-    - title: Documentationc
-      url: /documentation.html
-    - title: separator
-    - title: Customer Support
-      url: /customer-support.html
+    - title: Ages 7 - 9
+      url: /age7.html
+    - title: Ages 10 - 12
+      url: /age10.html
 - title: Contact
   url: /contact.html

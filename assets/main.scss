@@ -3,3 +3,29 @@
 ---
 
 @import "styles";
+
+
+.service-box {
+  max-width: 400px;
+  margin: 50px auto 0;
+  @media (min-width: 992px) {
+    margin: 20px auto 0;
+  }
+  p {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+}
+
+img {
+  max-width: 100% !important;
+}
+
+
+.dropdown-menu li {
+  text-align: center;
+}
+.dropdown-menu li a {
+  color: #515151 !important;
+  text-shadow: none !important;
+}

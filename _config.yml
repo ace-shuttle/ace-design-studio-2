@@ -2,7 +2,8 @@ title:              Ace Design Studio
 email:
 description:        Kickstart your digital jouney!
 author:
-baseurl:            "/ace-design-studio-2"
+#baseurl:            "/ace-design-studio-2"
+baseurl:
 url:                "https://ace-shuttle.github.io"
 
 # Social Profiles
